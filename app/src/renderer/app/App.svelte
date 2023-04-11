@@ -4,6 +4,8 @@
   import { fade } from 'svelte/transition';
   import { flip } from 'svelte/animate';
   const api = window.api;
+  const name = 'NGS Log Observer';
+  const version = 'v1.0.4';
 
   let log: ActionLogItem[] = [];
   let gameDirectory: string;
@@ -65,7 +67,12 @@
 <main class="flex h-[100vh] flex-col overflow-y-clip">
   <header class="draggable select-none bg-base-300 p-4">
     <div>
-      <h1 class="mb-1 text-2xl font-black">NGS Log Observer</h1>
+      <h1
+        class="mb-1 text-2xl font-black"
+        title={name + '\n' + 'Version: ' + version}
+      >
+        NGS Log Observer
+      </h1>
       <p class="mb-2 text-sm">
         Using logs from{' '}
         <button
