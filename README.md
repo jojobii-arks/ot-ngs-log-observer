@@ -2,6 +2,8 @@
 
 An _ActionLog_ viewer for [PSO2:NGS©️](https://pso2.com/)
 
+## [View the Tauri port here!](https://github.com/jojobii-arks/nt-ngs-log-observer)
+
 ## Repository Information
 
 - [`/app`](app) includes application source code.
