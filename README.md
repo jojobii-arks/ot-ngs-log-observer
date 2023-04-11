@@ -31,3 +31,6 @@ An _ActionLog_ viewer for [PSO2:NGS©️](https://pso2.com/)
 
 ![Filled Item Log](web/public/images/preview-filled-log.png) 
 
+---
+
+##### _This application is not affiliated with SEGA or any of its subsidiaries._
