@@ -1,8 +1,14 @@
+# NOTE: THIS IS BEING ARCHIVED IN FAVOR OF WORKING IN TAURI LOL
+
+## Go here instead. [jojobii-arks/ngs-log-observer](https://github.com/jojobii-arks/ngs-log-observer)
+
+---
+
 # NGS Log Observer
 
 An _ActionLog_ viewer for [PSO2:NGS©️](https://pso2.com/)
 
-## [View the Tauri port here!](https://github.com/jojobii-arks/nt-ngs-log-observer)
+## [View the Tauri port here!](https://github.com/jojobii-arks/ngs-log-observer)
 
 ## Repository Information
 
@@ -14,7 +20,7 @@ An _ActionLog_ viewer for [PSO2:NGS©️](https://pso2.com/)
 - Watch item drops from a dedicated window as they happen in the game.
 - View total N-Meseta gained during your play session.
 
-## [Click here to view releases!](https://github.com/jojobii-arks/ngs-log-observer/releases/)
+## [Click here to view releases!](https://github.com/jojobii-arks/ot-ngs-log-observer/releases/)
 
 
 - Built as a portable `.exe` app. Just download and run!
